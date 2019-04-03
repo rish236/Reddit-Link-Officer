@@ -1,2 +1,2 @@
 # Reddit-Link-Officer
-A reddit bot which checks if a user's request link is malicious or not via norton safeweb.
+An automated reddit bot which can monitor one or several subreddits, and checks if a user's requested website is malicious or not via norton safeweb.
